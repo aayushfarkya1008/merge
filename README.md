@@ -1,2 +1,0 @@
-# SPE
-Learn Github!!
